@@ -29,3 +29,9 @@ ________________________________________________________________________________
 >Client:
 >URL:protocol/domain/document
 >PROTOCOL:http/https/ftp
+#### what happens when you type 'http://si.umich.edu' into the address bar.
+###### 1.the browser look up the domain in the DNS
+###### 2.the DNS returns the IP address:54.88.175.189
+###### 3.The broeswe sends an HTTP request to the server located at that address.
+###### 4.The server finds the requested file and sends it back as a response.
+###### 5.the browser takes the response and renders the HTML code as a nide graphical presentation.
