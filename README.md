@@ -21,3 +21,11 @@ ________________________________________________________________________________
   <li>More markup to replace scripting</li>
 </ul>
 ```
+#### The Internet:
+>
+>LAN
+>WAN
+>Server:
+>Client:
+>URL:protocol/domain/document
+>PROTOCOL:http/https/ftp
